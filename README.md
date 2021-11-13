@@ -4,9 +4,10 @@
 
 
 
+- 🔭 I love Working on Machine Learning Projects.
 - 🔭 I love to develope mobile application using flutter.
-- 🔭 I love to develope mobile application using flutter.
-- 🌱 I’m currently learning all about full stack development and data structure.
+- 🌱 I’m currently learning all about NLP and AWS.
+- 💬 I'm having a good Knolegde in DataStructres and Algorithms
 - 💬 Ask me about frontend development.
 - 😄 Open to contribute in your projects.
 
@@ -20,8 +21,8 @@ Contact me:
 
 
 
-<a href="https://www.linkedin.com/in/sumi-jaiswal-678798191/">
-  <img align="left" alt="Sumi's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/aayush-aggarwal-68836a191/">
+  <img align="left" alt="Aayush's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 
